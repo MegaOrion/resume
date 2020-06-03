@@ -48,6 +48,9 @@ a{
   h1, h2, h3{
       font-weight: 400;
   }
+  h5{
+      margin-top: 0;
+  }
 .connect:hover a{
     background: rgba(255, 255, 0, 0.548);
     box-shadow: -3px 3px 15px 0 rgb(97, 97, 97);
